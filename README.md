@@ -15,6 +15,11 @@ Unity 2019.2.11f1<br>
 - Loop <br>
 - Branch 
 
+## Open StateGo File
+
+1. Install [StateGo](https://statego.programanic.com/) <br>
+2. Double Clicks on "unityProject/Assets/scripts/TestControl.psgg".<br>
+
 ![](https://raw.githubusercontent.com/NNNIC/psgg-unity-csharp-sample/master/wiki/statemachine.png)
 
 # How to run
