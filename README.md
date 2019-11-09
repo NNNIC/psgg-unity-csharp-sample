@@ -4,7 +4,8 @@ StataGo Unity C-Sharp Sample
 # Confirmed Environment
 
 Windows 10<br>
-Unity 2019.2.11f1
+Unity 2019.2.11f1<br>
+[StataGo](https://statago.programanic.com/)
 
 # State-machine
 
