@@ -5,7 +5,7 @@ StataGo Unity C-Sharp Sample
 
 Windows 10<br>
 Unity 2019.2.11f1<br>
-[StataGo](https://statago.programanic.com/)
+[StataGo](https://statego.programanic.com/)
 
 # State-machine
 
