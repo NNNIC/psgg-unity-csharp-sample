@@ -8,9 +8,18 @@ Unity 2019.2.11f1
 
 # State-machine
 
+## Sample Features
+
+- Call Subroutine.<br>
+- Loop <br>
+
 ![](https://raw.githubusercontent.com/NNNIC/psgg-unity-csharp-sample/master/wiki/statemachine.png)
 
-# How to play
+# How to run
+
+1. Open "UnityProject" usin Unity.<br>
+2. Open "test.scene".
+3. Run.
 
 # Output
 
